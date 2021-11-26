@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello Toast</string>
+    <string name="toast">Toast</string>
+    <string name="button">Button</string>
+    <string name="count_initial_value">0</string>
+    <string name="roll">ROLL</string>
+    <string name="hello_world">Hello World！</string>
+    <string name="count_up">カウントアップ</string>
+</resources>
