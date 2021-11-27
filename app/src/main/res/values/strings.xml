@@ -6,4 +6,6 @@
     <string name="roll">ROLL</string>
     <string name="hello_world">Hello World！</string>
     <string name="count_up">カウントアップ</string>
+    <string name="imageViewDescription">Image</string>
+    <string name="btnClear">clear</string>
 </resources>
